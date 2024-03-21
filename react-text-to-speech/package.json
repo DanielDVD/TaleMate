@@ -1,7 +1,7 @@
 {
   "name": "react-text-to-speech",
   "version": "0.1.0",
-  "homepage": "https://DanielDVD.github.io/TaleMate",
+  "homepage": "https://DanielDVD.github.io/TaleMate/react-text-to-speech",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
