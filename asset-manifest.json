@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TaleMate/static/css/main.7d3ae6d5.css",
-    "main.js": "/TaleMate/static/js/main.5fee57c8.js",
+    "main.js": "/TaleMate/static/js/main.afbf3195.js",
     "static/js/787.b36784a4.chunk.js": "/TaleMate/static/js/787.b36784a4.chunk.js",
     "static/media/Page_11.jpg": "/TaleMate/static/media/Page_11.85d04ff1daf7073d1469.jpg",
     "static/media/Page_15.jpg": "/TaleMate/static/media/Page_15.176369b954092116ce8d.jpg",
@@ -36,11 +36,11 @@
     "static/media/narrator.png": "/TaleMate/static/media/narrator.45f8afbfdf677cc00118.png",
     "index.html": "/TaleMate/index.html",
     "main.7d3ae6d5.css.map": "/TaleMate/static/css/main.7d3ae6d5.css.map",
-    "main.5fee57c8.js.map": "/TaleMate/static/js/main.5fee57c8.js.map",
+    "main.afbf3195.js.map": "/TaleMate/static/js/main.afbf3195.js.map",
     "787.b36784a4.chunk.js.map": "/TaleMate/static/js/787.b36784a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d3ae6d5.css",
-    "static/js/main.5fee57c8.js"
+    "static/js/main.afbf3195.js"
   ]
 }
